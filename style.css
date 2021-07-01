@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 0;
+}
+span {
+  color: red;
+}
+.form-heading {
+  background-color: brown;
+  color: white;
+}
+p {
+  margin: 0;
+}
+.form-heading p {
+  margin: 0;
+  font-size: 12px;
+  text-align: center;
+}
+.form-heading a {
+  color: yellow;
+}
+.form-details,
+.form-footer {
+  background-color: rgb(255, 255, 221);
+  font-size: 13px;
+}
+.form-footer {
+  padding-bottom: 30px;
+}
